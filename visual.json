@@ -1,0 +1,16 @@
+{
+    "id": "1eb6e5b0-fd83-11ee-baf0-dd0d934bf656",
+    "name": "multi-level-nav",
+    "displayName": "",
+    "displayNameKey": "",
+    "icon": "assets/icon.png",
+    "description": "",
+    "externalJs": [],
+    "externalCss": [],
+    "dependencies": [],
+    "assets": {
+        "images": {}
+    },
+    "configuration": {},
+    "cliVersion": "6.1.8"
+}

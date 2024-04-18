@@ -1,0 +1,23 @@
+{
+    "dataBinding": {
+    },
+    "options": {
+        "visual" : [
+            {
+                "type" : "interaction"
+            },
+            {
+                "displayName" : "导航配置",
+                "properties" : [
+                    {
+                        "name" : "navInfo",
+                        "displayName" : "导航信息",
+                        "type" : "LongText"
+                    }
+                ]
+            }
+        ]
+    },
+    "actions": [],
+    "analysis": []
+}
